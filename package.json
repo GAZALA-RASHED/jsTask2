@@ -1,0 +1,16 @@
+{
+  "name": "tseting",
+  "version": "1.0.0",
+  "description": "for unit testing",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.2.2",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "gazala rashed",
+  "license": "ISC"
+}
